@@ -1,0 +1,7 @@
+c:\users\dima\documents\visual studio 2017\Projects\DZ3_InterpolationPolynomialNewton\DZ3_InterpolationPolynomialNewton\bin\Debug\DZ3_InterpolationPolynomialNewton.exe.config
+c:\users\dima\documents\visual studio 2017\Projects\DZ3_InterpolationPolynomialNewton\DZ3_InterpolationPolynomialNewton\bin\Debug\DZ3_InterpolationPolynomialNewton.exe
+c:\users\dima\documents\visual studio 2017\Projects\DZ3_InterpolationPolynomialNewton\DZ3_InterpolationPolynomialNewton\bin\Debug\DZ3_InterpolationPolynomialNewton.pdb
+c:\users\dima\documents\visual studio 2017\Projects\DZ3_InterpolationPolynomialNewton\DZ3_InterpolationPolynomialNewton\obj\Debug\DZ3_InterpolationPolynomialNewton.csprojResolveAssemblyReference.cache
+c:\users\dima\documents\visual studio 2017\Projects\DZ3_InterpolationPolynomialNewton\DZ3_InterpolationPolynomialNewton\obj\Debug\DZ3_InterpolationPolynomialNewton.csproj.CoreCompileInputs.cache
+c:\users\dima\documents\visual studio 2017\Projects\DZ3_InterpolationPolynomialNewton\DZ3_InterpolationPolynomialNewton\obj\Debug\DZ3_InterpolationPolynomialNewton.exe
+c:\users\dima\documents\visual studio 2017\Projects\DZ3_InterpolationPolynomialNewton\DZ3_InterpolationPolynomialNewton\obj\Debug\DZ3_InterpolationPolynomialNewton.pdb
